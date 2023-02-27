@@ -1,7 +1,7 @@
 <h1>Oi eu sou o Thalison </h1>
 <h3>
-  Atualmente estudando analise e desenvolvimento de sistemas na <a href = "https://www.fiap.com.br/">FIAP</a>;
-  Analista de Suporte na MC1
+  Atualmente estudando analise e desenvolvimento de sistemas na <a href = "https://www.fiap.com.br/">FIAP</a>;<br>
+  Analista de Suporte na MC1.
 
 </h3>
 
