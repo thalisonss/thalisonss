@@ -1,10 +1,10 @@
 <h1>Oi eu sou o Thalison </h1>
-<div>
-<h3> Atualmente estudando analise e desenvolvimento de sistemas na <a href = "https://www.fiap.com.br/">FIAP</a>;</h3>
-  <h4> <em>Currently studying Systems Analysis and Development at <a href = "https://www.fiap.com.br/">FIAP</a>;</em> </h4>
-<h3> Analista de Suporte na MC1. <h3>
-  <h4> <em>Analista de Suporte na MC1.</em> </h4>
-</div>
+<p>
+<b>Atualmente estudando analise e desenvolvimento de sistemas na <a href = "https://www.fiap.com.br/">FIAP</a>;</b><br>
+<em>Currently studying Systems Analysis and Development at <a href = "https://www.fiap.com.br/">FIAP</a>;</em><br>
+<b>Analista de Suporte na MC1.</b><br>
+<em>Support Analyst at MC1.</em>
+</p>
 
 
 <div style="display: inline_block"><br>
